@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kpaul1795
-- 👀 I’m interested in Cybersecurity, more specifically in penetration testing.
+- 👀 I’m interested in Data Analytics, more specifically in predictive analytics.
 - 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on learning more about different tools regarding Cybersecurity.
+- 💞️ I’m looking to collaborate on learning more about different tools regarding Analytics.
 - 📫 How to reach me send me a message!
 
 <!---
